@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tanawat Limthongkul.
 
-## Student of Thammasat University
+## Student at Thammasat University
 
+- I'm currently pursing bachelor's degree of Software engineer.
 - 🌍 I'm based in Bangkok, Thailand
 - ✉️ You can contact me at [tanawat.lim.work@gmail.com](mailto:tanawat.lim.work@gmail.com)
 
